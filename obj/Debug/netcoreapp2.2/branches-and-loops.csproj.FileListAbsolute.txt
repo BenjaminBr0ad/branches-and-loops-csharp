@@ -1,0 +1,11 @@
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/bin/Debug/netcoreapp2.2/branches-and-loops.deps.json
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/bin/Debug/netcoreapp2.2/branches-and-loops.runtimeconfig.json
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/bin/Debug/netcoreapp2.2/branches-and-loops.runtimeconfig.dev.json
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/bin/Debug/netcoreapp2.2/branches-and-loops.dll
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/bin/Debug/netcoreapp2.2/branches-and-loops.pdb
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/obj/Debug/netcoreapp2.2/branches-and-loops.csprojAssemblyReference.cache
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/obj/Debug/netcoreapp2.2/branches-and-loops.csproj.CoreCompileInputs.cache
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/obj/Debug/netcoreapp2.2/branches-and-loops.AssemblyInfoInputs.cache
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/obj/Debug/netcoreapp2.2/branches-and-loops.AssemblyInfo.cs
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/obj/Debug/netcoreapp2.2/branches-and-loops.dll
+/Users/benjaminbroad/Workspace/dotnet-projects/branches-and-loops/obj/Debug/netcoreapp2.2/branches-and-loops.pdb
